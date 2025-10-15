@@ -1,112 +1,88 @@
-<p align="center">
-  <img src="image.jpg" alt="Banner" width="900"/>
-</p>
+# 👋 Hi, I’m Saud Ali Khan
 
-# 👋 Hey there! I’m **Saud Ali Khan**
-
-<h3 align="center">
-  <em>Full-Stack Architect | Mobile & Web Innovator | AI/ML Enthusiast | Cloud & Backend Specialist</em>
-</h3>
+## 🌐 Full-Stack Architect · Mobile & Web Innovator · AI & Full-Stack Specialist
 
 ---
 
 <p align="center">
-  <a href="mailto:saksaud7411@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-43b581?style=for-the-badge&logo=internet-archive&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/saud-ali-khan-35b366191"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  # Connect with me:
+  <br>
+  <a href="mailto:saksaud7411@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-43b581?style=for-the-badge&logo=internet-archive&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/saud-ali-khan-35b366191"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/SAKSAUD7"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-Driving innovation by building **scalable, performant**, and **secure software ecosystems**. Expert in blending **modern AI/ML**, **microservices backend architectures**, and **immersive UI/UX** to deliver enterprise-grade products.
+### 📍 Based in Bangalore, India
 
 ---
 
-## 🖥️ Project Specializations
+### 💡 Summary
 
-- ⚡ **Real-Time SaaS Platforms:** On-demand booking, scheduling, and live data sync systems.  
-- 🤖 **AI & Automation:** Conversational AI chatbots, workflow automation, and ML-powered analytics.  
-- 🏥 **Healthcare Tech:** End-to-end patient-provider telehealth and physiotherapy platforms.  
-- 📚 **EdTech & Learning Management:** Scalable education portals and student lifecycle management.  
-- 🛒 **eCommerce & Marketplaces:** Decentralized NFT marketplaces and Web3 integrated apps.  
-- 🚚 **Logistics & Fleet Management:** Real-time tracking and operational orchestration platforms.  
-- 📄 **SaaS Workflow Automation:** Smart contract, invoice, and document processing platforms.
+Full-stack developer skilled in JavaScript, Node.js, Python, and modern cloud platforms. Hands-on expertise in building end-to-end web and mobile applications, integrating frontend UIs and scalable backend services. Passionate about leveraging AI/ML to build intelligent, intuitive software solutions.
 
 ---
 
-## 🛠 Core Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
   <img src="https://img.shields.io/badge/Supabase-222?style=for-the-badge&logo=supabase&logoColor=3fcf8e" alt="Supabase" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ff9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## ⚙️ Backend Engineering Excellence
+### 🚀 Selected Projects & Contributions
 
-- 🚀 Architected **microservices** and event-driven backends enabling high scalability & fault tolerance.  
-- 🔐 Implemented **enterprise-grade security** including OAuth 2.0, JWT, RBAC, and Row-Level Security.  
-- ☁️ Built **cloud-native serverless systems** using AWS Lambda, Google Cloud Functions, and Kubernetes.  
-- 🛠 Developed **API-first, modular backend services** with REST and GraphQL powering seamless frontend integration.  
-- 🤖 Leveraged ML pipelines & AI workflows integrated into backend for advanced analytics and personalization.  
-- 🔄 Automated **CI/CD pipelines** with GitHub Actions, Terraform, and Helm charts, boosting release velocity & reliability.
-
----
-
-## 🤖 AI & Machine Learning Initiatives
-
-- Deep experience with **PyTorch**, **TensorFlow**, and **NLP** for AI-powered conversational systems and automation.  
-- Deployment of **AI chatbots** reducing workflows friction and enhancing user engagement.  
-- Exploration and integration of **Large Language Models (LLMs)** for next-gen contextual software applications.  
-- Real-time **ML-powered data insights** to drive business decision-making and automation.
+- **Logistics Billing Software:** Developed a billing system featuring GST integration, Excel reporting, dynamic UIs, and print-ready invoices.
+- **Physiotherapy at Your Doorstep:** Created a full-stack service booking platform, integrating secure user flows and real-time status updates.
+- **Foot Care Products Website:** Developed an e-commerce site for product display and management.
+- **Statistical Test Advisor:** Built a React-based decision tree to recommend appropriate statistical tests.
+- **Drowsiness Detection System:** Developed a Python application using Eye Aspect Ratio (EAR) to monitor driver fatigue in real-time.
 
 ---
 
-## 🎨 UI/UX Design Philosophy
+### 🎓 Education
 
-- Minimalist and accessible UI with **Flutter Material 3** and modern React design frameworks.  
-- Use of **gradients, glassmorphism, & animations** ensuring delightful, engaging user experiences.  
-- Mobile-first responsive development that scales elegantly across devices and platforms.
-
----
-
-## 📊 Career Milestones & Stats
-
-- Delivered **10+ full lifecycle platforms** spanning SaaS, FinTech, HealthTech, and decentralized Web3 apps.  
-- Collaborated with **multinational remote teams** across 3+ continents within agile environments.  
-- Achieved **50%+ reductions in operational costs** via AI-powered automation solutions.  
-- Mentored teams and led technical sessions advancing organizational engineering excellence.
+- B.E. in Information Science — HKBK College of Engineering (2018–2022)  
+- PU in Computer Science — Shaheen’s Falcon PU College (2016–2018)
 
 ---
 
-## 🌱 Core Values & Growth
+### 🏅 Certifications
 
-- Innovation & Quality-Obsessed — delivering products I’m proud to use.  
-- Fostering Diversity & Remote-First Culture to unlock creativity.  
-- Open-source Advocate & Community Mentor promoting knowledge sharing and growth.
-
----
-
-## 📫 Let’s Connect and Build the Future!
-
-<p align="center">
-  📧 <a href="mailto:saksaud7411@gmail.com">Email</a> | 🌐 <a href="https://your-website.com">Portfolio</a> | 🔗 <a href="https://www.linkedin.com/in/saud-ali-khan-35b366191">LinkedIn</a>
-</p>
+- The Complete Python Bootcamp — Udemy  
+- Cloud Computing & AWS Fundamentals — The Odin Project  
+- Full Stack JavaScript & CSS/JavaScript Certification — Udemy  
+- Web Services API Testing with Postman  
+- Learn HTML for Beginners
 
 ---
 
-<p align="center">
-    <em>Building amazing products and pioneering intelligent solutions—together!</em> 🚀
-</p>
+### 🤖 AI & Machine Learning
+
+- Developed desktop AI voice assistant (Jarvis) and drowsiness detection system during internship.
+- Applied machine learning models for real-time monitoring and intelligent automation.
+
+---
+
+### 🌱 My Growth Journey
+
+- Continuous learner focusing on AI integration, cloud-native full-stack systems, and advanced distributed architectures.
+- Advocate of hands-on collaboration with cross-functional teams and open-source contribution.
+
+---
+
+💬 _Let’s collaborate and build next-gen, intelligent digital experiences!_
+
+---
