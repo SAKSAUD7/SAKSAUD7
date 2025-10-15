@@ -49,24 +49,21 @@ I’m a passionate full-stack developer with a strong foundation in backend and 
 
 ---
 
-## 🚀  Projects worked on 
+## 🚀 Projects Worked On
 
-Project Type                    |  Technical Description                                                                                                                                                      
---------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Online Physiotherapy Booking    |  Full-stack healthcare booking system with real-time session tracking, secure login, payment gateway integration, and responsive UI using React, Supabase, and Node.js.     
-Smart Contract Automation SaaS  |  End-to-end SaaS platform automating contract lifecycle & invoice workflows, powered by blockchain integrations, Node.js backend, and React frontend.                       
-NFT/Web3 Backend Services       |  Developed backend APIs integrating NFT marketplace data (OpenSea), containerized with Docker, thoroughly tested with Postman, enabling decentralized app functionality.    
-Dynamic  Delivery App       |  Cross-platform Flutter mobile app with dynamic geolocation-based listings, real-time backend updates using Supabase, providing seamless user booking & delivery experience.
-Educational Management Portal   |  Comprehensive school portal supporting attendance, messaging, document management, built with React frontend & Supabase backend for scalability and responsiveness.   
+| Project Type                    | Technical Description                                                                                                               |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| **Online Physiotherapy Booking**   | End-to-end full-stack healthcare booking platform with React frontend, Supabase backend, payment gateway integration, and real-time session tracking. Secure authentication and responsive design ensured.              |
+| **Smart Contract Automation SaaS** | Robust SaaS solution automating contract lifecycle management and invoicing, leveraging blockchain technologies with Node.js backend and React frontend. Ensures transparency and workflow efficiency.                |
+| **NFT/Web3 Backend Services**      | Scalable backend services integrating OpenSea NFT APIs. Containerized with Docker, multi-environment tested with Postman, supporting decentralized app workflow and marketplace data ingestion.                     |
+| **Dynamic Delivery App**            | Cross-platform Flutter mobile app with live geolocation listings, backed by real-time Supabase sync, offering seamless user booking and delivery tracking experiences across devices.                               |
+| **Educational Management Portal**  | Scalable school management web application featuring attendance, messaging, and document handling. Built on React for frontend and Supabase for backend, optimized for performance and UX.                         |
 
-
-Project Type                  |  Technical Description                                                                                                                         
-------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------
-Logistics Billing System      |  Developed a GST-compliant logistics billing software with dynamic forms, Excel export, and printable reports using React and Node.js APIs.    
-AI-Powered Fatigue Detection  |  Python-based real-time driver drowsiness detection using Eye Aspect Ratio (EAR) metric and alert system for enhanced safety.                  
-Voice Assistant (Jarvis)      |  AI voice assistant desktop app built with Python, enabling voice-based automation and natural language command execution.                     
-Statistical Test Advisor      |  Interactive React web app implementing decision tree logic to recommend statistical tests based on user data inputs, aiding research accuracy.
-AI Chatbot Deployment         |  Conversational AI chatbot powered by PyTorch & Flask, deployed with REST API integration for enhanced customer support capabilities.          
+| **Logistics Billing System**        | GST-compliant billing software tailored for logistics. Includes dynamic forms, Excel export, and printable financial reports. Implemented via React.js SPA and RESTful Node.js APIs.                             |
+| **AI-Powered Fatigue Detection**    | Real-time computer-vision system detecting driver drowsiness using eye aspect ratio (EAR) metrics. Implemented with Python and OpenCV for safety-critical alerting.                                           |
+| **Voice Assistant (Jarvis)**        | Desktop voice-controlled assistant built in Python, capable of task automation and natural language command processing using speech recognition libraries.                                                |
+| **Statistical Test Advisor**        | React-based interactive decision tree guiding users to appropriate statistical tests based on data input features, boosting analysis accuracy and educational value.                                          |
+| **AI Chatbot Deployment**            | Conversational AI chatbot built with PyTorch and Flask, integrated with REST APIs for customer support automation and enhanced conversational context understanding.                                       |
 
 # Certifications & Training
 
