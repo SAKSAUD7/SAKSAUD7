@@ -2,7 +2,8 @@
 
 ## 🌐 Full-Stack Architect · Mobile & Web Innovator 
  ---
-
+   <p align="center">
+    # Connect me through 
 <p align="center">
   <a href="your-website.com"><img src="https://img.shields.io/badge/Portfolio-43b581?style=for-the-badge&logo=internet-archive&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/saud-ali-khan-35b366191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
