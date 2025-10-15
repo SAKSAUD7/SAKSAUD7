@@ -9,7 +9,7 @@
   <a href="mailto:saksaud7411@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
   <a href="https://your-website.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-43b581?style=for-the-badge&logo=internet-archive&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/saud-ali-khan-35b366191"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/SAKSAUD7"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  
 </p>
 
 ---
